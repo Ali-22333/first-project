@@ -1,2 +1,2 @@
 # first-project
-learning git and gitHub
+### hey i'm khalid ans i'mlearning git and gitHub recently
