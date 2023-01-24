@@ -1,0 +1,12 @@
+body{
+    display:grid;
+    align-items: center;
+    height:100vh;
+    background-image: linear-gradient(rgb(148, 22, 251) , rgb(39, 240, 230));
+    color:white;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+h1{
+    text-align:center;
+}
